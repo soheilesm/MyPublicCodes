@@ -1,3 +1,3 @@
 # My Public Codes
-## *Author*: Soheil Esmaeilzadeh
+## __Author__: Soheil Esmaeilzadeh
 ### All Rights Reserved
