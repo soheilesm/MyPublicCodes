@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Python/Clustering/Mixed_Numeric_Categorical_Data_Clustering/README.md
 
 
 
@@ -1117,3 +1118,7 @@ distributed under BSD license) that are used in the <code>clustering</code> and 
   </body>
 </html>
 
+=======
+## soheil
+------------
+>>>>>>> 5cc1913dd8b6e4a338012387340203ec9819df53:Python/Clustering/SpatioTemporal_Clustering/README.md
