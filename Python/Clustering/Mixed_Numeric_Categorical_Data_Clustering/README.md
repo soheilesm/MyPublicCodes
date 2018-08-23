@@ -7,6 +7,12 @@ You should not use k-means clustering on a dataset containing mixed datatypes. R
 3) Density-based algorithms: HIERDENC, MULIC, CLIQUE
 4) Model-based algorithms: SVM clustering, Self-organizing maps
 
-Here we will use the k-prototypes <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> algorithm that combines k-modes and k-means and demonstrate its usage for clustering mixed numerical / categorical data.
+Here we will use the k-prototypes algorithm that combines k-modes and k-means and demonstrate its usage for clustering mixed numerical / categorical data.
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
