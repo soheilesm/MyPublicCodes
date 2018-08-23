@@ -1,4 +1,4 @@
-## How do we apply k-means clustering algorithm for mixed data-numeric and categorical?
+# How do we apply k-means clustering algorithm for mixed data-numeric and categorical?
 -------------
 -------------
 The standard k-means algorithm isn't directly applicable to categorical data, for various reasons. The sample space for categorical data is discrete and a Euclidean distance function on that space is not.
