@@ -1,19 +1,5 @@
-Using Git
+Git
 ===============
-
-
-Reminder
------------
-
-Press `minus + shift + s` and `return` to chop/fold long lines!
-
-Show folder content: `ls -la`
-
-
-Notes
------------
-
-Do not put (external) dependencies in version control!
 
 
 Setup
@@ -36,10 +22,18 @@ Help:
 `git help`
 
 
+Reminder
+-----------
+
+Press `minus + shift + s` and `return` to chop/fold long lines!
+
+Show folder content: `ls -la`
+
+
 General
 -----------
 
-Initialize Git:
+Initializing Git:
 `git init`
 
 Get everything ready to commit:
@@ -136,34 +130,6 @@ Delete not merged branch:
 `git branch -D branch_to_delete`
 
 
-Merge
------------
-
-True merge (fast forward):
-`git merge branchname`
-
-Merge to master (only if fast forward):
-`git merge --ff-only branchname`
-
-Merge to master (force a new commit):
-`git merge --no-ff branchname`
-
-Stop merge (in case of conflicts):
-`git merge --abort`
-
-Stop merge (in case of conflicts):
-`git reset --merge` // prior to v1.7.4
-
-Merge only one specific commit: 
-`git cherry-pick 073791e7`
-
-Rebase:
-`git checkout branchname` » `git rebase master`
-or:
-`git merge master branchname`
-(The rebase moves all of the commits in `master` onto the tip of `branchname`.)
-
-
 Stash
 -----------
 
@@ -204,6 +170,34 @@ Add or edit gitignore:
 
 Track empty dir: 
 `touch dir/.gitkeep`
+
+Merge
+-----------
+
+True merge (fast forward):
+`git merge branchname`
+
+Merge to master (only if fast forward):
+`git merge --ff-only branchname`
+
+Merge to master (force a new commit):
+`git merge --no-ff branchname`
+
+Stop merge (in case of conflicts):
+`git merge --abort`
+
+Stop merge (in case of conflicts):
+`git reset --merge` // prior to v1.7.4
+
+Merge only one specific commit: 
+`git cherry-pick 073791e7`
+
+Rebase:
+`git checkout branchname` » `git rebase master`
+or:
+`git merge master branchname`
+(The rebase moves all of the commits in `master` onto the tip of `branchname`.)
+
 
 
 Log
@@ -393,23 +387,14 @@ Create a zip-archive: `git archive --format zip --output filename.zip master`
 Export/write custom log to a file: `git log --author=sven --all > log.txt`
 
 
-Troubleshooting
------------
-
-Ignore files that have already been committed to a Git repository: http://stackoverflow.com/a/1139797/1815847
-
-
 Security
 -----------
 
 Hide Git on the web via `.htaccess`: `RedirectMatch 404 /\.git` 
-(more info here: http://stackoverflow.com/a/17916515/1815847)
 
 
 Large File Storage
 -----------
-
-Website: https://git-lfs.github.com/
 
 Install: `brew install git-lfs`
 
