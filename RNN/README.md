@@ -2,8 +2,9 @@
 -------------
 ### Here we do Time Series Forecast by Recurrent Neural Networks
 -------------
-Author: Soheil Esmaeilzadeh
+__Author:__ Soheil Esmaeilzadeh
 
-Email: soheil.esmaeilzadeh@gmail.com / soes@stanford.edu
+__Email:__ soheil.esmaeilzadeh@gmail.com / soes@stanford.edu
 
-Code1. Deep Vanilla Recurrent Neural Network
+__Code1:__ Deep Vanilla Recurrent Neural Network
+        
