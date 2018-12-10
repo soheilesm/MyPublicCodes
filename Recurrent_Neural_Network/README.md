@@ -6,7 +6,7 @@ __Author:__ Soheil Esmaeilzadeh
 
 __Email:__ soheil.esmaeilzadeh@gmail.com / soes@stanford.edu
 
-__Code1:__ Deep Vanilla Recurrent Neural Network (DRNN)
+__Code1:__ Deep Vanilla Recurrent Neural Network (DRNN) [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 __Code2:__ Deep Long Short Term Memory (DLSTM)
 
