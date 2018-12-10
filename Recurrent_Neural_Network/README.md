@@ -10,5 +10,5 @@ __1)__ Deep Vanilla Recurrent Neural Network (DRNN), [Link to Notebook](./Deep_R
 
 __2)__ Deep Long Short Term Memory (DLSTM), [Link to Notebook](./Deep_Long_Short_Term_Memory/Code2.ipynb)
 
-__3)__ Deep Gated Recurrent Units (DGRU)
+__3)__ Deep Gated Recurrent Units (DGRU), [Link to Notebook](./Deep_Gated_Recurrent_Unit/Code2.ipynb)
         
