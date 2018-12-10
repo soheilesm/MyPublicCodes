@@ -1,6 +1,6 @@
 
 -------------
-### Here we do Time Series Forecast by Recurrent Neural Networks
+### Time Series Forecast using Recurrent Units
 -------------
 __Author:__ Soheil Esmaeilzadeh
 
