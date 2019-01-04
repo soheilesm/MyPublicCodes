@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Visualization in Python
 
 In this part, I have put together 3 categoris of python codes for plotting data. Data sets are given in the __Dataset Folder__. 
 
