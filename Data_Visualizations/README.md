@@ -1,6 +1,6 @@
 # Data Visualization in Python
 
-In this part, I have put together 3 categoris of python codes for plotting data. Data sets are given in the __Dataset Folder__. 
+In this part, I have put together 3 categories of Python codes for plotting data. Data sets are given in the __Dataset Folder__. 
 
 1. The first one named as __1.Static_Plotting.ipynb__ shows how regular plots can made out of two dimensional data in a flexible way of changing different characteristics of the plot and complex annotatings.
 
