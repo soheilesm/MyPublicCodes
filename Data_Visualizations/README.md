@@ -6,7 +6,7 @@ The first one named as __1.Static_Plotting.ipynb__ shows how regular plots can m
 
 The second one named as __2.Multi Dimensional Plotting.ipynb__ illustrates different forms of plottings available for multi dimensional data e.g. from 1D to 6D.
 
-The second one named as __3.Interactive_Plotting.ipynb__ illustrates different ways of interactive dynamic plottings in python where user can manually interact and changes plots and see changes inline on the plots. For viewing the code you can use this link from nbviewer, [See The Notebook Here!](https://nbviewer.jupyter.org/github/soheilesm/MyPublicCodes/blob/master/Data_Visulizations/3.Interactive_Plotting.ipynb#)
+The second one named as __3.Interactive_Plotting.ipynb__ illustrates different ways of interactive dynamic plottings in python where user can manually interact and changes plots and see changes inline on the plots. For viewing the code you can use this link from nbviewer, [See The Notebook Here!](https://nbviewer.jupyter.org/github/soheilesm/MyPublicCodes/blob/master/Data_Visualizations/3.Interactive_Plotting.ipynb)
 
 
 Author: Soheil Esmaeilzadeh
